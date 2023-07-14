@@ -53,8 +53,6 @@ namespace 2
                     Console.WriteLine(i);
                 }
             }
-                
-
         }
     }
 }
