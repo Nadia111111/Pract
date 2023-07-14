@@ -27,6 +27,8 @@ I have skills in the following areas of software development:
 
 ## Code example
 
+```
+
 using System;
 
 namespace 2
@@ -56,6 +58,8 @@ namespace 2
         }
     }
 }
+
+```
 
 ***
 
