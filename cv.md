@@ -24,3 +24,37 @@ I have skills in the following areas of software development:
 * C#
 
 ***
+
+## Code example
+
+using System;
+
+namespace 2
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int x = 0;
+            for (int i = 300; i < 601; i++) 
+            {
+                for (int p = 1; p<=i; p++)
+                {
+
+                    if (i % p == 0)
+                    {
+                        x = x + p;
+                    }
+                }
+                if (x % 10==0)
+                {
+                    Console.WriteLine(i);
+                }
+            }
+                
+
+        }
+    }
+}
+
+***
