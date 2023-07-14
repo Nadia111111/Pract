@@ -58,3 +58,10 @@ namespace 2
 }
 
 ***
+
+## Courses and studying
+
+* CV. The CV you are reading was created as part of an internship project.
+
+***
+
