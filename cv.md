@@ -65,3 +65,10 @@ namespace 2
 
 ***
 
+## Languages 
+
+1. Russian - Native
+2. Belarusian - Native
+3. English - А1 Beginner
+
+***
